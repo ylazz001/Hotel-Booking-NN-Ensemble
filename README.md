@@ -1,6 +1,6 @@
 # Hotel-Booking-NN-Ensemble
 
-The analysis presented in this report seeks to create whether a hotel customer will cancel or not cancel his/her rreservation based on 17 features. It also aims to create 2 NN models, then using ensemble to combine said models and (possibly) increase prediction accuracy
+The analysis presented in this report seeks to determine whether a hotel customer will cancel or not cancel his/her reservation based on 17 features. It also aims to create 2 NN models, then use ensemble to combine said models and (possibly) increase prediction accuracy
 
 ## Description
 
@@ -22,11 +22,11 @@ Programming Environment:
 This project was created using Jupyter Notebook and the latest Python/Tensorflow release.
 
 ## Sample Output
-![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/Reservation count vs booking status.PNG)
+![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/reservation_count_vs_booking_status.PNG)
 
-![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/Numerical Variables Correlation.PNG)
+![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/correlation.PNG)
 
-![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/Loss vs. Accuracy.PNG)
+![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/loss_vs_accuracy.PNG)
 
 ![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot4.png)
 
