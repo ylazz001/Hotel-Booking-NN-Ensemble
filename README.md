@@ -4,7 +4,7 @@ The analysis presented in this report seeks to create whether a hotel customer w
 
 ## Description
 
-The analysis will look at the open source data from kaggle on hotel booking cancellations (https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction). The dataset is checked for missing values, then formatted appropriately to optimize statistical analysis. Both categorical and numerical features are plotted to consider correlation with cancellation and non-cancellations. Subsequently 2 neural networks will be created as well as 2 ensemble modles: one using linear regression, and one using a third (simplidied) neural network. Ultimately the predictive power of each model is calculated and tested using a batch of fictitious data
+The analysis will look at the open-source data from Kaggle on hotel booking cancellations (https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction). The dataset is checked for missing values and then formatted appropriately to optimize statistical analysis. Both categorical and numerical features are plotted to consider the correlation between cancellation and non-cancellations. Subsequently, 2 neural networks will be created as well as 2 ensemble models: one using linear regression, and one using a third (simplified) neural network. Ultimately the predictive power of each model is calculated and tested using a batch of fictitious data
 
 ## Getting Started
 
@@ -22,11 +22,11 @@ Programming Environment:
 This project was created using Jupyter Notebook and the latest Python/Tensorflow release.
 
 ## Sample Output
-![Alt text](Reservation count vs booking status.PNG)
+![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/Reservation count vs booking status.PNG)
 
-![Alt text](Numerical Variables Correlation.PNG)
+![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/Numerical Variables Correlation.PNG)
 
-![Alt text](Loss vs. Accuracy.PNG)
+![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/Loss vs. Accuracy.PNG)
 
 ![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot4.png)
 
