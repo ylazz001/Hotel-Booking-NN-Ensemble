@@ -28,8 +28,6 @@ This project was created using Jupyter Notebook and the latest Python/Tensorflow
 
 ![Alt text](https://github.com/ylazz001/Hotel-Booking-NN-Ensemble/blob/main/loss_vs_accuracy.PNG)
 
-![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot4.png)
-
 ## Authors
 
 Yuri Lazzeretti
